@@ -4,34 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4fb761b96c298ca8",
+        "id": "7d6d7023586ef513",
         "type": "tabs",
         "children": [
           {
-            "id": "72fedd79c8df567a",
+            "id": "6b25b3d6ccc81d2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grab/feedback and p &p.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "a89301c9328afc90",
+            "id": "5de369043e82266d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian学习/未命名.md",
+                "file": "js数组新方法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/feedback and p &p.md",
+                "file": "js数组新方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/feedback and p &p.md",
+                "file": "js数组新方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/feedback and p &p.md"
+                "file": "js数组新方法.md"
               }
             }
           },
@@ -168,13 +165,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d8bdc8342db34b2",
+  "active": "5de369043e82266d",
   "lastOpenFiles": [
-    "grab/开发wiki & figma.md",
+    "js数组新方法.md",
+    "grab/feedback and p &p.md",
     "obsidian学习/未命名.md",
+    "sql学习",
+    "go学习",
+    "前端学习",
+    "grab/开发wiki & figma.md",
     "custom-icons-files-and-folders.css.md",
     "未命名 1.md",
-    "grab/feedback and p &p.md",
     "grab/部分权限和文档.md",
     "grab/test_uplad.canvas",
     "README.md",
