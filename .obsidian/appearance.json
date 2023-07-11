@@ -2,5 +2,9 @@
   "accentColor": "#35b512",
   "theme": "obsidian",
   "baseFontSize": 19,
-  "translucency": true
+  "translucency": false,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "obsiban_project_icon"
+  ]
 }
