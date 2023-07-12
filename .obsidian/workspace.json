@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e93f15e24cacf877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universal task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js数组新方法.md",
+                "file": "universal task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js数组新方法.md",
+                "file": "universal task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js数组新方法.md"
+                "file": "universal task.md"
               }
             }
           },
@@ -165,9 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5de369043e82266d",
+  "active": "e93f15e24cacf877",
   "lastOpenFiles": [
     "js数组新方法.md",
+    "universal task.md",
     "grab/feedback and p &p.md",
     "obsidian学习/未命名.md",
     "sql学习",
