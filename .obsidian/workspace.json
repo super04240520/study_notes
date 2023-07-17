@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7d6d7023586ef513",
+        "id": "1847a035db479c11",
         "type": "tabs",
         "children": [
           {
-            "id": "6b25b3d6ccc81d2f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5de369043e82266d",
+            "id": "f9a8580c89b603a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js数组新方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e93f15e24cacf877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "universal task.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universal task.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universal task.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universal task.md"
+                "file": "grab/开发相关/universal/universal task.md"
               }
             }
           },
@@ -157,8 +136,25 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "05cc87cf8a427dc6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2bc979178721a31",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -177,21 +173,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e93f15e24cacf877",
+  "active": "d2bc979178721a31",
   "lastOpenFiles": [
-    "grab/oncall.md",
+    "grab/开发wiki & figma.md",
     "grab/部分权限和文档.md",
-    "universal task.md",
-    "js数组新方法.md",
+    "grab/开发相关/universal/universal task.md",
+    "grab/开发相关/universal",
+    "grab/test_uplad.canvas",
+    "grab/oncall.md",
     "grab/feedback and p &p.md",
+    "grab/开发相关",
+    "前端学习/js数组新方法.md",
+    "未命名.md",
+    "日记",
+    "2023-07-17.md",
+    "前端学习/前端知识体系总结.md",
     "obsidian学习/未命名.md",
     "sql学习",
     "go学习",
     "前端学习",
-    "grab/开发wiki & figma.md",
     "custom-icons-files-and-folders.css.md",
     "未命名 1.md",
-    "grab/test_uplad.canvas",
     "README.md",
     "obsidian学习",
     "grab"
