@@ -8,3 +8,9 @@ todo:
 	
 
 1:   universal task workflow 1.0
+
+
+当poi exist 选择 NO 时，其他card 不展示，放到store中渲染。
+
+在addresss 选择 yes 时，展示下面 unit 等（根据国家判断，渲染）
+                           no时不展示。 放到组建内部渲染。
