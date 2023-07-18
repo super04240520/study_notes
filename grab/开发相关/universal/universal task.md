@@ -14,3 +14,8 @@ todo:
 
 在addresss 选择 yes 时，展示下面 unit 等（根据国家判断，渲染）
                            no时不展示。 放到组建内部渲染。
+2: image 参数需要前端请求，切id
+[https://prd-karta-crowdsourcing.s3.ap-southeast-1.amazonaws.com](https://prd-karta-crowdsourcing.s3.ap-southeast-1.amazonaws.com) 
+key::::::
+images/2023/6/29/63a58ceb-2814-4bd2-8afd-ecc51db43ee1.jpeg](https://prd-karta-crowdsourcing.s3.ap-southeast-1.amazonaws.com/images/2023/6/29/63a58ceb-2814-4bd2-8afd-ecc51db43ee1.jpeg)
+	       `"[https://prd-karta-crowdsourcing.s3.ap-southeast-1.amazonaws.com/images/2023/6/29/63a58ceb-2814-4bd2-8afd-ecc51db43ee1.jpeg](https://prd-karta-crowdsourcing.s3.ap-southeast-1.amazonaws.com/images/2023/6/29/63a58ceb-2814-4bd2-8afd-ecc51db43ee1.jpeg)"`
