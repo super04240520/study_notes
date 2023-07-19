@@ -9,7 +9,7 @@ todo:
 
 1:   universal task workflow 1.0
 
-poi_category ---- bunisse-type
+poi_category ---- bussiness_type
 
 
 当poi exist 选择 NO 时，其他card 不展示，放到store中渲染。
