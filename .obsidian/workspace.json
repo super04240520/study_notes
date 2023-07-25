@@ -11,11 +11,28 @@
             "id": "c32e67e5af0f0a55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "887c854b9e6007f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端学习/css/border.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "前端学习/css/border.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "前端学习/css/border.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "前端学习/css/border.md"
+              }
             }
           },
           {
@@ -165,8 +186,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c32e67e5af0f0a55",
+  "active": "887c854b9e6007f4",
   "lastOpenFiles": [
+    "b.md",
+    "前端学习/css/border.md",
+    "README.md",
+    "前端学习/css",
     "廖金-前端开发.pdf",
     "grab/oncall.md",
     "简历/廖金.md",
@@ -188,8 +213,6 @@
     "go学习",
     "前端学习",
     "custom-icons-files-and-folders.css.md",
-    "README.md",
-    "obsidian学习",
-    "grab"
+    "obsidian学习"
   ]
 }
