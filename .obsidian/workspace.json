@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/开发wiki & figma.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/开发wiki & figma.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/开发wiki & figma.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/开发wiki & figma.md"
+                "file": "grab/开发相关/universal/universal task.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "887c854b9e6007f4",
   "lastOpenFiles": [
+    "grab/开发wiki & figma.md",
     "grab/oncall.md",
     "前端学习/css/border.md",
     "b.md",
@@ -197,7 +198,6 @@
     "简历/廖金.md",
     "简历",
     "grab/开发相关/universal/universal task.md",
-    "grab/开发wiki & figma.md",
     "grab/部分权限和文档.md",
     "grab/开发相关/universal",
     "grab/test_uplad.canvas",
