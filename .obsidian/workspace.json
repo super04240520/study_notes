@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e21b9c37cc282b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grab/开发相关/universal/universal task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,8 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "887c854b9e6007f4",
+  "active": "e21b9c37cc282b86",
   "lastOpenFiles": [
+    "grab/feedback and p &p.md",
+    "不在的问题：  ci问题.md",
+    "Pasted image 20230728110446.png",
+    "Pasted image 20230728110410.png",
+    "grab/开发相关/universal/universal task.md",
     "grab/开发wiki & figma.md",
     "grab/oncall.md",
     "前端学习/css/border.md",
@@ -197,11 +214,9 @@
     "廖金-前端开发.pdf",
     "简历/廖金.md",
     "简历",
-    "grab/开发相关/universal/universal task.md",
     "grab/部分权限和文档.md",
     "grab/开发相关/universal",
     "grab/test_uplad.canvas",
-    "grab/feedback and p &p.md",
     "grab/开发相关",
     "前端学习/js数组新方法.md",
     "未命名.md",

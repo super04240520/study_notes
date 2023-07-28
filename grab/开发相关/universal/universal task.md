@@ -1,7 +1,9 @@
 1、需要重现拉取 poi_data by id
-2、
+2、Change some page anchors
 
 todo: 
+task相关
+1、 毛点问题 pri。 
 	a: 数据在store进行区分，计算属性判断是否存在值
 	~~b:  ops判断后的yes 或no的值。需要确认一下~~~~~~
 	 日期选择时需要判断是否重复。
@@ -16,7 +18,7 @@ todo:
 	    form data集成
 		    数据提交转换
 		
-	
+
 	
 
 1:   universal task workflow 1.0
