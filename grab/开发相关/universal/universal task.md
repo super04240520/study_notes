@@ -5,13 +5,13 @@ todo:
 	a: 数据在store进行区分，计算属性判断是否存在值
 	~~b:  ops判断后的yes 或no的值。需要确认一下~~~~~~
 	 日期选择时需要判断是否重复。
-	页面相关
+页面相关
 		根据exist location 获取地图相关信息
 			map联动
 		 name的多次添加
 		 address 根据 国家进行normalize
 数据相关：
-	    除hours相关的数据提取
+	    除hours相关的数据提取,测试
 	    接收数据转换（custom 部分）
 	    form data集成
 		    数据提交转换
