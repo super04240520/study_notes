@@ -1,4 +1,3 @@
-pvlezagr3pjumxeksy37g42nmn5kwumcyr6qqvpiyheyngopxqqa
 
 
 1、需要重现拉取 poi_data by id
@@ -6,14 +5,14 @@ pvlezagr3pjumxeksy37g42nmn5kwumcyr6qqvpiyheyngopxqqa
 
 todo: 
 task相关
-1、 毛点问题 pri。 
+~~1、 毛点问题 pri。~~ 
 	a: 数据在store进行区分，计算属性判断是否存在值
 	~~b:  ops判断后的yes 或no的值。需要确认一下~~~~~~
 	 日期选择时需要判断是否重复。
 页面相关
 		根据exist location 获取地图相关信息
 			map联动
-		 name的多次添加
+		 ~~name的多次添加~~ 暂用现有组件。
 		 address 根据 国家进行normalize
 数据相关：
 	    除hours相关的数据提取,测试
@@ -21,7 +20,10 @@ task相关
 	    form data集成
 		    数据提交转换
 		
-
+<font color="#c0504d">**与ui的区别**</font>
+	1.  ~~name的多次添加~~ 暂用现有组件。
+	2. hour还是使用24小时制
+	3. 
 	
 
 1:   universal task workflow 1.0
