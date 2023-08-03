@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/开发相关/universal/universal task.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fde7f59ade909d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "grab/todo.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,10 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fde7f59ade909d91",
+  "active": "e21b9c37cc282b86",
   "lastOpenFiles": [
-    "grab/开发相关/universal/universal task.md",
+    "grab/oncall.md",
     "grab/todo.md",
+    "grab/开发相关/universal/universal task.md",
     "grab/开发相关/rollback/change  street view base url.md",
     "grab/feedback and p &p.md",
     "grab/开发相关/rollback/dev.md",
@@ -223,7 +212,6 @@
     "Pasted image 20230728110446.png",
     "Pasted image 20230728110410.png",
     "grab/开发wiki & figma.md",
-    "grab/oncall.md",
     "前端学习/css/border.md",
     "b.md",
     "README.md",
