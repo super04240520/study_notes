@@ -42,7 +42,8 @@ images/2023/6/29/63a58ceb-2814-4bd2-8afd-ecc51db43ee1.jpeg](https://prd-karta-cr
 	       `"[https://prd-karta-crowdsourcing.s3.ap-southeast-1.amazonaws.com/images/2023/6/29/63a58ceb-2814-4bd2-8afd-ecc51db43ee1.jpeg](https://prd-karta-crowdsourcing.s3.ap-southeast-1.amazonaws.com/images/2023/6/29/63a58ceb-2814-4bd2-8afd-ecc51db43ee1.jpeg)"~~`
 
 TODO:
-	添加自动填充
+	name 添加自动填充
+	image review tab 需要添加
 	
 
 
