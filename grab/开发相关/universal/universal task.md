@@ -53,7 +53,8 @@ user_type - user_id
 yes or no 添加tag 用于区分
 add place 需要review， 使用之前的review-modle
 图片的correct也可以review  ridion button 
-	
+
+name回填需要 选择多语言select选择
 
 
 
