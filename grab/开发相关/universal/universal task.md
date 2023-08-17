@@ -60,3 +60,27 @@ name回填需要 选择多语言select选择
 
 renpin需要项目要一下。
 
+
+0: 整个项目覆盖
+1、history page 更换list 图片
+2、claim a task button 更换椭圆型
+3、action button。  
+4、两边的tab，左侧tab,绿色需要
+5、头部task id。 有一些状体tag
+6、review 部分背景，字体颜色
+7、collector label 添加两行 tab
+8、yes or no Disagree Collector/
+9、radio  color
+10、form背景颜色
+11、 select 与remark 拉长距离近一点
+12、custom 改成 Reviewer marker 使用verify 的样式
+13、add  name 的tooltip / select
+14、sunday 不加冒号
+15、time 选择 closed添加艰巨， 组件padding尽量调整
+16、time  modal 选额 border 左右不对齐
+17、image review：  bad + good photo
+18、submit 的modal 重写
+19、点击exist 选择no的时候，tab变成灰色。
+
+
+
