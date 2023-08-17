@@ -46,6 +46,11 @@ TODO:
 	image review tab 需要添加
 	exist 的remark 
 E-7cQ4AaGrzN4rv9Ywo0jpw==
+
+label 可以添加
+ui颜色，tab颜色
+user_type - user_id
+yes or no 添加tag 用于区分
 	
 
 
