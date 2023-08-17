@@ -51,6 +51,8 @@ label 可以添加
 ui颜色，tab颜色
 user_type - user_id
 yes or no 添加tag 用于区分
+add place 需要review， 使用之前的review-modle
+图片的correct也可以review  ridion button 
 	
 
 
