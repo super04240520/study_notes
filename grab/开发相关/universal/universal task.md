@@ -87,5 +87,7 @@ renpin需要项目要一下。
 address 是否需要拼接，返回数据是否包含。
 source 进入不同陆游 包一层，根据source 进入不同页面
 
+image 后期会加入squence id 和 index。需要在数据层面，做兼容。
+
 
 
