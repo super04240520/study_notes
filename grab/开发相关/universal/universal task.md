@@ -43,16 +43,16 @@ images/2023/6/29/63a58ceb-2814-4bd2-8afd-ecc51db43ee1.jpeg](https://prd-karta-cr
 
 TODO:
 	name 添加自动填充
-	image review tab 需要添加
-	exist 的remark 
+	~~image review tab 需要添加~~
+	~~exist 的remark~~ 
 E-7cQ4AaGrzN4rv9Ywo0jpw==
 
 label 可以添加
 ui颜色，tab颜色
 user_type - user_id
-yes or no 添加tag 用于区分
-add place 需要review， 使用之前的review-modle
-图片的correct也可以review  ridion button 
+~~yes or no 添加tag 用于区分~~
+~~add place 需要review， 使用之前的review-modle~~
+~~图片的correct也可以review  ridion button~~ 
 
 name回填需要 选择多语言select选择
 
