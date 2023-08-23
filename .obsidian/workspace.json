@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "714055826c88ac72",
+        "id": "7c572cde0c8b5bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "c32e67e5af0f0a55",
+            "id": "b74cbe2c669d961f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "887c854b9e6007f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grab/开发相关/universal/universal task.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/开发相关/universal/universal task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/开发相关/universal/universal task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "grab/开发相关/universal/universal task.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,14 +165,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "887c854b9e6007f4",
+  "active": "b74cbe2c669d961f",
   "lastOpenFiles": [
-    "grab/oncall.md",
+    "README.md",
+    "前端学习/pnpm/pnpm 版本导致根据pnpm yaml 文件无法下载最新版本的依赖，影响项目启动.md",
+    "b.md",
+    "前端学习/pnpm",
+    "Pasted image 20230728110410.png",
+    "grab/部分权限和文档.md",
     "grab/开发相关/universal/universal task.md",
+    "grab/oncall.md",
     "superset.md",
     "grab/KA",
     "grab/开发wiki & figma.md",
-    "grab/部分权限和文档.md",
     "grab/todo.md",
     "前端学习/package.json.md",
     "Pasted image 20230808184053.png",
@@ -205,10 +189,7 @@
     "grab/开发相关/rollback",
     "不在的问题：  ci问题.md",
     "Pasted image 20230728110446.png",
-    "Pasted image 20230728110410.png",
     "前端学习/css/border.md",
-    "b.md",
-    "README.md",
     "前端学习/css",
     "廖金-前端开发.pdf",
     "简历/廖金.md",
@@ -222,7 +203,6 @@
     "2023-07-17.md",
     "前端学习/前端知识体系总结.md",
     "obsidian学习/未命名.md",
-    "sql学习",
     "custom-icons-files-and-folders.css.md"
   ]
 }
