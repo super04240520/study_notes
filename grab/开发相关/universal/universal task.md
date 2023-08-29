@@ -90,6 +90,7 @@ image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 
 
 29号
+0, task status 根据 task operation 判断，只有 init accept reject 三种
 1、添加maker-动画。偏移量设置
 		边界
 2、address 添加is_normalize
