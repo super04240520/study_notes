@@ -91,6 +91,7 @@ image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 
 29号
 1、添加maker-动画。偏移量设置
+		边界
 2、address 添加is_normalize
 	ui有出入。
 3、TODO: image 后期会加入squence id 和 index。需要在数据层面，做兼容。
@@ -103,6 +104,10 @@ QA case
 5、图片review必须后才能提交
 	如果图片全部是bad的话，再聊一下。
 6、三个时间框。是否添加。
+
+
+data：
+	1、extra 数据确认
 
 
 
