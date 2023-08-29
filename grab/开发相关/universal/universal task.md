@@ -90,7 +90,7 @@ image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 
 
 29号
-1、添加maker-动画
+1、添加maker-动画。偏移量设置
 2、address 添加is_normalize
 	ui有出入。
 3、TODO: image 后期会加入squence id 和 index。需要在数据层面，做兼容。
@@ -98,6 +98,11 @@ image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 QA case
 1、添加realtime dedup
 2、国家限制。只开PH
+3、report 添加类型 下载
+4、选择后 yes or no 后，必填
+5、图片review必须后才能提交
+	如果图片全部是bad的话，再聊一下。
+6、三个时间框。是否添加。
 
 
 
