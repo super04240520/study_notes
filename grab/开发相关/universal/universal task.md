@@ -94,6 +94,7 @@ image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 2、address 添加is_normalize
 	ui有出入。
 3、TODO: image 后期会加入squence id 和 index。需要在数据层面，做兼容。
+4、hours组件，错误提醒，自动填充当前时间
 QA case
 1、添加realtime dedup
 2、国家限制。只开PH
