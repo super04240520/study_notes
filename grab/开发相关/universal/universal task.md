@@ -83,14 +83,19 @@ renpin需要项目要一下。
 19、点击exist 选择no的时候，tab变成灰色。
 
 
-添加  poi -inforation
+添加  poi -information
 address 是否需要拼接，返回数据是否包含。
-source 进入不同陆游 包一层，根据source 进入不同页面
-
+~~*source 进入不同陆游 包一层，根据source 进入不同页面*~~
 image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 
 
-添加maker-动画
+29号
+1、添加maker-动画
+2、address 添加is_normalize
+	ui有出入。
+3、TODO: image 后期会加入squence id 和 index。需要在数据层面，做兼容。
+QA case
+1、添加realtime dedup
 
 
 
