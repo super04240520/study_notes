@@ -96,6 +96,7 @@ image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 3、TODO: image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 QA case
 1、添加realtime dedup
+2、国家限制。只开PH
 
 
 
