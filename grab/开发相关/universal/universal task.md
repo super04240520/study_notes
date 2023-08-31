@@ -90,21 +90,21 @@ image 后期会加入squence id 和 index。需要在数据层面，做兼容。
 
 
 29号
-0, task status 根据 task operation 判断，只有 init accept reject 三种
-1、添加maker-动画。偏移量设置
-		边界
+~~0, task status 根据 task operation 判断，只有 init accept reject 三种~~
+1~~、添加maker-动画。偏移量设置
+		边界~~
 2、address 添加is_normalize
 	ui有出入。
 3、TODO: image 后期会加入squence id 和 index。需要在数据层面，做兼容。
-4、hours组件，错误提醒，自动填充当前时间
+<font color="#ffc000">4、hours组件，错误提醒，自动填充当前时间</font>
 QA case
 1、添加realtime dedup
 2、国家限制。只开PH
 3、report 添加类型 下载
 4、选择后 yes or no 后，必填
 5、图片review必须后才能提交
-	如果图片全部是bad的话，再聊一下。
-6、三个时间框。是否添加。
+	~~如果图片全部是bad的话，再聊一下。~~  去掉form的option
+~~6、三个时间框。是否添加。~~
 
 
 data：
