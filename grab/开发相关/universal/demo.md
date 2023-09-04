@@ -1,5 +1,9 @@
 
-For new workflows, we integrated verify place and add place together. You can then change the different workflows by changing the task type. flag
+For new workflows, we integrated verify place and add place together. You can then change the different workflows by changing the task type. 
+
+flag =>
+we add a flag to filter different tasks.
+It will add o
 
 Let's enter the review page. Currently, the collected data is displayed at the top, followed by the results of reviews by different people. Ops needs to review the current results. 
 
