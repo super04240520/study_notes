@@ -6,3 +6,5 @@ First of all, for this part of the review, if you choose not to agree. Then subs
 
 
 对于correct 和incorrect只针对于是否需要给给钱
+
+得禁用，disable，collector联动
