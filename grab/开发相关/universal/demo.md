@@ -24,3 +24,5 @@ If you find a review error, you can hit 'Redo' to review again.
 The form section works as described above.
 Next is the review of the entire task. When different review types are selected, the reviewer needs to select different submission reasons.
 Here, we have added some of the reviewed models, such as fraud and some others. That's pretty much it. If anyone has any questions, please ask. That's pretty much all. If anyone has any questions, please feel free to ask.
+
+当选择disgree时，不能点击accept？
