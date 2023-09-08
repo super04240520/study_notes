@@ -26,3 +26,6 @@ Next is the review of the entire task. When different review types are selected,
 Here, we have added some of the reviewed models, such as fraud and some others. That's pretty much it. If anyone has any questions, please ask. That's pretty much all. If anyone has any questions, please feel free to ask.
 
 当选择disgree时，不能点击accept？
+
+用户提交的，用户没有street_id
+
