@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "053fbc2d7f6c643b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b74cbe2c669d961f",
+  "active": "053fbc2d7f6c643b",
   "lastOpenFiles": [
     "grab/开发相关/universal/universal task.md",
     "grab/开发相关/street man/feed back.md",
