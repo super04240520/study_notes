@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c572cde0c8b5bc9",
+        "id": "db7ed33d9e1b4ae0",
         "type": "tabs",
         "children": [
           {
-            "id": "b74cbe2c669d961f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grab/开发相关/universal/demo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "053fbc2d7f6c643b",
+            "id": "ea3a5d50ba903f3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "053fbc2d7f6c643b",
+  "active": "ea3a5d50ba903f3a",
   "lastOpenFiles": [
     "grab/开发相关/universal/universal task.md",
     "grab/开发相关/universal/demo.md",
+    "grab/开发wiki & figma.md",
     "grab/部分权限和文档.md",
     "grab/开发相关/street man/feed back.md",
-    "grab/开发wiki & figma.md",
     "grab/开发相关/street man",
     "grab/开发相关/data mock.md",
     "README.md",
