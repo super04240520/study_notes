@@ -110,5 +110,9 @@ QA case
 data：
 	1、extra 数据确认
 
+优先级
+
+![[Pasted image 20230927113623.png]]
+
 
 

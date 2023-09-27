@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/开发相关/universal/页面更改，.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/开发相关/universal/页面更改，.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/开发相关/universal/页面更改，.md",
+                "file": "grab/开发相关/universal/universal task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/开发相关/universal/页面更改，.md"
+                "file": "grab/开发相关/universal/universal task.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "9cac7753e44e1f17",
   "lastOpenFiles": [
+    "Pasted image 20230927113623.png",
+    "grab/开发相关/universal/页面更改，.md",
     "grab/开发相关/universal/demo.md",
     "grab/开发相关/universal/universal task.md",
     "grab/开发相关/street man/feed back.md",
@@ -194,7 +196,6 @@
     "grab/todo.md",
     "grab/开发相关/rollback/change  street view base url.md",
     "grab/开发相关/rollback/dev.md",
-    "grab/开发相关/universal/页面更改，.md",
     "grab/学习/Nick写了一个邮件，这个表述项目的方式很好，明确了解决了什么问题，做了什么，碰到什么难点，和下一步思路 ，大家可以参考这个思路写自己的工作总结。详细内容贴在了thread 里.md",
     "grab/开发相关/street man",
     "grab/开发相关/data mock.md",
@@ -223,7 +224,6 @@
     "grab/开发相关",
     "前端学习/js数组新方法.md",
     "未命名.md",
-    "2023-07-17.md",
-    "前端学习/前端知识体系总结.md"
+    "2023-07-17.md"
   ]
 }
