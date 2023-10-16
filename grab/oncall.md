@@ -6,3 +6,11 @@ permission deny. Please request the `**StaOperator**` **role. FYI** [https://
 
 
 4: 更改越南 house number source：  **Required for residential POI, optional for non-residential POI** 
+
+1、nearby标记 对应国家语言
+	点击后展示多语言
+2、如果开启啦normalization 移除admin area
+	po-man
+	workflow
+3、检查
+4、2 checker AHT
