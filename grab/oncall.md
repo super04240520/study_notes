@@ -14,3 +14,8 @@ permission deny. Please request the `**StaOperator**` **role. FYI** [https://
 	workflow
 3、检查
 4、2 checker AHT
+
+
+oncall记录：
+	
+	KARTAPLACE-1493
