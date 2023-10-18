@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3298525603ce33ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grab/oncall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,22 +216,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84dce8a1d667ff7c",
+  "active": "3298525603ce33ed",
   "lastOpenFiles": [
+    "grab/todo.md",
+    "grab/部分权限和文档.md",
+    "grab/开发wiki & figma.md",
+    "grab/oncall.md",
     "教辅机构/组织架构设计.md",
     "教辅机构/需要调研.md",
     "教辅机构",
-    "grab/oncall.md",
-    "grab/开发wiki & figma.md",
     "grab/开发相关/universal/universal task.md",
     "grab/开发相关/universal/demo.md",
-    "grab/部分权限和文档.md",
     "grab/feedback and p &p.md",
     "grab/开发相关/data mock.md",
     "Pasted image 20230927113623.png",
     "grab/开发相关/universal/页面更改，.md",
     "grab/开发相关/street man/feed back.md",
-    "grab/todo.md",
     "grab/开发相关/rollback/change  street view base url.md",
     "grab/开发相关/rollback/dev.md",
     "grab/学习/Nick写了一个邮件，这个表述项目的方式很好，明确了解决了什么问题，做了什么，碰到什么难点，和下一步思路 ，大家可以参考这个思路写自己的工作总结。详细内容贴在了thread 里.md",
