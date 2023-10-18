@@ -34,3 +34,8 @@ oncall记录：
 ~~poi-collection 的布局~~
 
 ![[Pasted image 20231018141254.png]]  提交时校验
+
+
+2-checker  设置最小值 input. , street-name 更新取消和点X，
+
+ 调整 form 的宽度的调整,  图片btn
