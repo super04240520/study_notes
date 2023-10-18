@@ -30,5 +30,7 @@ oncall记录：
 	KARTAPLACE-1493
 
 
-food的两个source
+food的两个source report page
 poi-collection 的布局
+
+![[Pasted image 20231018141254.png]]  提交时校验
