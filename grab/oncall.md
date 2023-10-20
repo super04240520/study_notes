@@ -12,7 +12,7 @@ permission deny. Please request the `**StaOperator**` **role. FYI** [https://
 [@karta-poi-adr](https://grab.enterprise.slack.com/admin/user_groups) [@karta-poi-ios](https://grab.enterprise.slack.com/admin/user_groups) POI crowdsourcing mobile device issue.  
 [@oncall-route-engine](https://grab.enterprise.slack.com/admin/user_groups) route issue
 
-
+11edd41d907cb4ddadd20ae9daff9076
 
 4: 更改越南 house number source：  **Required for residential POI, optional for non-residential POI** 
 

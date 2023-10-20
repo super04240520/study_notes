@@ -38,21 +38,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3298525603ce33ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grab/oncall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3298525603ce33ed",
+  "active": "84dce8a1d667ff7c",
   "lastOpenFiles": [
     "Pasted image 20231018141254.png",
     "grab/todo.md",
