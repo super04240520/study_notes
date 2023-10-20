@@ -19,4 +19,23 @@
 
 
 
-dedup  ==== 7 
+![[Pasted image 20231018141254.png]]  提交时校验
+
+
+~~2-checker  设置最小值 input.~~ , street-name 更新取消和点X，
+
+ ~~调整 form 的宽度的调整,  图片btn~~
+ ~~website去掉前缀，~~
+
+
+TODO:
+	**poi相关**
+1. poi不存在street id时，不应该自动默认填充街道
+2. street list添加create a new street
+3。street 创建返回duplicate时，有机制可选择返回的street id
+4. 根据街道名称搜索，返回结果去重 @xiao.hu 
+5. 显示选择的街道相关地理信息在地图上
+6. update street有bug，关闭不了
+
+**poi colleciton相关**
+	比如  place page need to get poi_id ?
