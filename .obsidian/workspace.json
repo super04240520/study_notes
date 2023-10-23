@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "b0ca1f7582e31992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "教辅机构/需要调研.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "84dce8a1d667ff7c",
             "type": "leaf",
             "state": {
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
