@@ -30,10 +30,10 @@
 
 TODO:
 	**poi相关**
-1. poi不存在street id时，不应该自动默认填充街道  update的时候不存在的时候不填，创建的时候填充
+1~~. poi不存在street id时，不应该自动默认填充街道  update的时候不存在的时候不填，创建的时候填充~~
 	IT.2GYS44HJDYLCE edit not auto fill
 	
-1. street list添加create a new street
+~~1. street list添加create a new street~~
 2. 
  3。street 创建返回duplicate时，有机制可选择返回的street id
 	 拿到dedup的id
