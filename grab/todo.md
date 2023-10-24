@@ -31,8 +31,10 @@
 TODO:
 	**poi相关**
 1. poi不存在street id时，不应该自动默认填充街道  update的时候不存在的时候不填，创建的时候填充
-2. street list添加create a new street
-3. 
+	IT.2GYS44HJDYLCE edit not auto fill
+	
+1. street list添加create a new street
+2. 
  3。street 创建返回duplicate时，有机制可选择返回的street id
 	 拿到dedup的id
 4~~. 根据街道名称搜索，返回结果去重 @xiao.hu~~~~ 
@@ -40,6 +42,7 @@ TODO:
 	1. 显示路径图 low
 6. update street有bug，关闭不了
 	1. name 清空的问题
+
 
 **poi colleciton相关**
 	比如  place page need to get poi_id ?
