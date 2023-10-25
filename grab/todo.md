@@ -38,9 +38,9 @@ TODO:
  3。street 创建返回duplicate时，有机制可选择返回的street id
 	 拿到dedup的id
 4~~. 根据街道名称搜索，返回结果去重 @xiao.hu~~~~ 
-5. 显示选择的街道相关地理信息在地图上
+~~5. 显示选择的街道相关地理信息在地图上
 	1. 显示路径图 low
-	2. 1.305887,103.82109.  STREET.37UOHRYM5E0JV
+	2. 1.305887,103.82109.  STREET.37UOHRYM5E0JV~~
 6. update street有bug，关闭不了
 	1. name 清空的问题
 
