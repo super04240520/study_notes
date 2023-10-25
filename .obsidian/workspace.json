@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "84dce8a1d667ff7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grab/todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "grab/todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,10 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84dce8a1d667ff7c",
+  "active": "0dbff9ffba7cd19d",
   "lastOpenFiles": [
-    "grab/oncall.md",
+    "go学习/入门.md",
     "grab/todo.md",
+    "grab/oncall.md",
     "Pasted image 20231018141254.png",
     "grab/部分权限和文档.md",
     "grab/开发wiki & figma.md",
