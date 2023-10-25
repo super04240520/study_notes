@@ -116,3 +116,10 @@ data：
 
 
 
+
+
+**second round** 
+
+	1、image只请求一次
+	2、再次更新street相关。
+	3、
