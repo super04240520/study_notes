@@ -32,3 +32,8 @@ oncall记录：
 
 ~~food的两个source report page~~
 ~~poi-collection 的布局~~
+
+
+
+当poi 状态是 active的时候，禁止编辑,
+	减少task
