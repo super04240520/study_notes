@@ -37,3 +37,6 @@ oncall记录：
 
 当poi 状态是 active的时候，禁止编辑,
 	减少task
+
+street 清除时，禁用edit
+	多语言删除， 取消。进入model 编辑更新。
