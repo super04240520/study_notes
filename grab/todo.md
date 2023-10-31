@@ -47,3 +47,14 @@ TODO:
 
 **poi colleciton相关**
 	比如  place page need to get poi_id ?
+
+
+
+
+1. 街道路径详情页，且PRI有错误 [https://poi.karta.stg-myteksi.com/poi-management/edit/IT.0OAISLD6RUJEW](https://poi.karta.stg-myteksi.com/poi-management/edit/IT.0OAISLD6RUJEW)
+2. POI 详情以及编辑页面layout改变，可拖拽
+3. 改变error signal样式（同PRI）POI management
+4. POI change log 与@ziqiang 同步，更换API，返回数据等，做diff
+5. 添加n-checker前端指标，AHT等图表，思考一下如何表达n-ckecker作为合并add place以及edit places的工作流，AHT上的优化，比如一个checker，collector的task的AHT为4min，add place得AHT为3min，edit place的为2min，那么总体看是减少1分钟的
+6. n-checker 的prd角色权限控制更新
+7. GT上的Nearby Tool的radius，添加一个input，允许手动输入指定数值
