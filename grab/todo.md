@@ -58,3 +58,4 @@ TODO:
 5. 添加n-checker前端指标，AHT等图表，思考一下如何表达n-ckecker作为合并add place以及edit places的工作流，AHT上的优化，比如一个checker，collector的task的AHT为4min，add place得AHT为3min，edit place的为2min，那么总体看是减少1分钟的
 6. n-checker 的prd角色权限控制更新
 7. GT上的Nearby Tool的radius，添加一个input，允许手动输入指定数值
+poi-colleciton protal端，全部开启normalization
