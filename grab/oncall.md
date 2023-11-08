@@ -9,7 +9,7 @@ permission deny. Please request the `**StaOperator**` **role. FYI** [https://
 [@oncall-map-tiles](https://grab.enterprise.slack.com/admin/user_groups) map tiles issues  
 [@zhifan.pan](https://grab.slack.com/team/WRVC4RJ7M) GrabMap Web issues, SDK.  
 [@oncall-kartaview](https://grab.enterprise.slack.com/admin/user_groups) kartaview issues  
-[@karta-poi-adr](https://grab.enterprise.slack.com/admin/user_groups) [@karta-poi-ios](https://grab.enterprise.slack.com/admin/user_groups) POI crowdsourcing mobile device issue.  
+[@karta-poi-adr](https://grab.enterprise.slack.com/admin/user_groups) [@karta-poi-ios](https://grab.enterprise.slack.com/admin/user_groups) POI crowdsourcing mobile device issue.   geofence @yazhen.yuan
 [@oncall-route-engine](https://grab.enterprise.slack.com/admin/user_groups) route issue
 
 
