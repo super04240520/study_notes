@@ -59,3 +59,7 @@ TODO:
 ~~6. n-checker 的prd角色权限控制更新~~
 ~~7. GT上的Nearby Tool的radius，添加一个input，允许手动输入指定数值~~
 poi-colleciton protal端，全部开启normalization
+
+
+
+crow sourcing 入口， fsq，latitude。入口 --》 GT
