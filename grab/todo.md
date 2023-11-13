@@ -64,3 +64,5 @@ poi-colleciton protal端，全部开启normalization
 
 crow sourcing 入口， fsq，latitude。入口 --》 GT
 changelog    changlin
+
+add reviewer type  在2chencker history
