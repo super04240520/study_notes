@@ -69,6 +69,3 @@ add reviewer type  在2chencker history
 
 
 
-
-POI 
-	add new category
