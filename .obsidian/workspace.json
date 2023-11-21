@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Q3Q4.md",
+                "file": "前端学习/前端知识体系总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Q3Q4.md",
+                "file": "前端学习/前端知识体系总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 Q3Q4.md",
+                "file": "前端学习/前端知识体系总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 Q3Q4.md"
+                "file": "前端学习/前端知识体系总结.md"
               }
             }
           },
@@ -185,8 +185,14 @@
   },
   "active": "9c1b79d64f2b18a4",
   "lastOpenFiles": [
-    "b.md",
+    "未命名.md",
+    "廖金-前端开发.pdf",
+    "superset.md",
+    "README.md",
+    "Pasted image 20230927113623.png",
+    "Pasted image 20231018141254.png",
     "2023 Q3Q4.md",
+    "b.md",
     "grab/开发相关/rollback/change  street view base url.md",
     "grab/todo.md",
     "grab/oncall.md",
@@ -199,16 +205,10 @@
     "grab/开发相关/rollback/dev.md",
     "grab/部分权限和文档.md",
     "grab/开发wiki & figma.md",
-    "superset.md",
-    "廖金-前端开发.pdf",
     "不在的问题：  ci问题.md",
     "grab/spring/2322.md",
     "grab/spring",
     "Pasted image 20230728110446.png",
-    "未命名.md",
-    "Pasted image 20231018141254.png",
-    "README.md",
-    "Pasted image 20230927113623.png",
     "Pasted image 20230808184053.png",
     "go学习/入门.md",
     "教辅机构/组织架构设计.md",
