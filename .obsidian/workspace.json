@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/前端知识体系总结.md",
+                "file": "grab/KA/2022KA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/前端知识体系总结.md",
+                "file": "grab/KA/2022KA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端学习/前端知识体系总结.md",
+                "file": "grab/KA/2022KA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/前端知识体系总结.md"
+                "file": "grab/KA/2022KA.md"
               }
             }
           },
@@ -185,27 +185,31 @@
   },
   "active": "9c1b79d64f2b18a4",
   "lastOpenFiles": [
+    "grab/部分权限和文档.md",
+    "grab/KA/2022KA.md",
+    "grab/开发wiki & figma.md",
+    "grab/学习/使用copilot.md",
+    "grab/学习/Nick写了一个邮件，这个表述项目的方式很好，明确了解决了什么问题，做了什么，碰到什么难点，和下一步思路 ，大家可以参考这个思路写自己的工作总结。详细内容贴在了thread 里.md",
+    "grab/开发相关/rollback/dev.md",
+    "grab/开发相关/rollback/change  street view base url.md",
+    "2023 Q3Q4.md",
+    "不在的问题：  ci问题.md",
+    "grab/feedback and p &p.md",
+    "grab/oncall.md",
+    "前端学习/前端知识体系总结.md",
     "未命名.md",
     "廖金-前端开发.pdf",
     "superset.md",
     "README.md",
     "Pasted image 20230927113623.png",
     "Pasted image 20231018141254.png",
-    "2023 Q3Q4.md",
     "b.md",
-    "grab/开发相关/rollback/change  street view base url.md",
     "grab/todo.md",
-    "grab/oncall.md",
-    "grab/feedback and p &p.md",
     "grab/开发相关/data mock.md",
     "grab/开发相关/universal/页面更改，.md",
     "grab/开发相关/universal/universal task.md",
     "grab/开发相关/universal/demo.md",
     "grab/开发相关/street man/feed back.md",
-    "grab/开发相关/rollback/dev.md",
-    "grab/部分权限和文档.md",
-    "grab/开发wiki & figma.md",
-    "不在的问题：  ci问题.md",
     "grab/spring/2322.md",
     "grab/spring",
     "Pasted image 20230728110446.png",
@@ -214,13 +218,10 @@
     "教辅机构/组织架构设计.md",
     "教辅机构/需要调研.md",
     "教辅机构",
-    "grab/学习/Nick写了一个邮件，这个表述项目的方式很好，明确了解决了什么问题，做了什么，碰到什么难点，和下一步思路 ，大家可以参考这个思路写自己的工作总结。详细内容贴在了thread 里.md",
     "grab/开发相关/street man",
-    "前端学习/pnpm/pnpm 版本导致根据pnpm yaml 文件无法下载最新版本的依赖，影响项目启动.md",
     "前端学习/pnpm",
     "Pasted image 20230728110410.png",
     "grab/KA",
-    "前端学习/package.json.md",
     "grab/学习",
     "grab/开发相关/rollback",
     "前端学习/css",
