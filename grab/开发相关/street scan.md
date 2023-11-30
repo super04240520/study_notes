@@ -1,0 +1,1 @@
+[Figma](https://www.figma.com/file/sujHcqYen1591yimqoavQX/Karta-Street-Scan?type=design&node-id=0-1&mode=design&t=6eeuQd7X9zMVErgs-0)
