@@ -1,4 +1,4 @@
-1、booking 找 chenyang
+1、booking 找 FYI @/oncall-geo-tools 里的同学，geo-tools上这个booking debugging tool 已经 deprecated 了，如果想看 booking information，让找 [@oncall-dexter](https://grab.enterprise.slack.com/admin/user_groups). 如果问 debugging tool API 或者上面的 Nav Deviation tab 的事儿，hand over to [@wenchao.xu](https://grab.slack.com/team/U03KANVDXMZ) 了，可以转发给 [@oncall-route-engine](https://grab.enterprise.slack.com/admin/user_groups) ..
 
 2、dax 区分android or ios √[@karta-poi-adr](https://grab.slack.com/admin/user_groups) [@karta-poi-ios](https://grab.slack.com/admin/user_groups)
 3、权限 If others want to check POI & sta, I think techsupport role maybe better
