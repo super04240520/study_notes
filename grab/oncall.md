@@ -48,3 +48,7 @@ Huiyuan Shi对所有人说 (2023年12月8日，10:52)
 123.125.92.227:4443
 221.122.65.147:4443 
 这个地址测试一下 如果可以 临时使用这个地址
+
+Hi [@kelvin.mathew](https://grab.slack.com/team/WRU33AAF4), please ask them try to open this [page](chrome://flags/) and search `rasterization`. If there is disabled, please set `default` or `enabled`.  It is optional but if enable these options may accelerate image rendering on local devices. Team will also keep tracking this issue do some optimization maybe. cc [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
+
+Screenshot 2023-12-27 at 18.14.58.png
