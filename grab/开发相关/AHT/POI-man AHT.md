@@ -26,3 +26,7 @@ Chao An![:表示发言的气泡:](https://a.slack-edge.com/production-standard-e
 
 好，那我就带上 XXXXXX 这个 id 信息就![[Pasted image 20231228105717.png]]
 1. POI man的AHT计算，提供一个计时器，可暂停，清零，半自动化计算AHT，背景可参考, task id计算可用时间戳base32或者64生成uuid [https://docs.google.com/presentation/d/1FGTk2x7pvAnMJv-RwkgiKbx4Wy8f_qwmkslxWGpK9qI/edit#slide=id.g29fac86d414_0_0](https://docs.google.com/presentation/d/1FGTk2x7pvAnMJv-RwkgiKbx4Wy8f_qwmkslxWGpK9qI/edit#slide=id.g29fac86d414_0_0)
+
+
+
+1764
