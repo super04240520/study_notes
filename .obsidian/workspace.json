@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc110ecd70602d94",
+        "id": "7abb1ca2b234cb49",
         "type": "tabs",
         "children": [
           {
-            "id": "63e6c436946672f1",
+            "id": "0de39613a309d4b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63e6c436946672f1",
+  "active": "0de39613a309d4b3",
   "lastOpenFiles": [
+    "Pasted image 20240120140022.png",
+    "Pasted image 20240120140007.png",
+    "go学习/入门.md",
     "grab/feedback and p &p.md",
     "grab/oncall.md",
     "grab/部分权限和文档.md",
@@ -213,9 +216,7 @@
     "2023 Q3Q4.md",
     "不在的问题：  ci问题.md",
     "前端学习/前端知识体系总结.md",
-    "未命名.md",
     "廖金-前端开发.pdf",
-    "superset.md",
     "Pasted image 20230927113623.png",
     "Pasted image 20231018141254.png",
     "grab/spring",
