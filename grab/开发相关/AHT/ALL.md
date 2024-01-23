@@ -2,3 +2,5 @@
 
 
 
+abnormal 的问题： 因为repick的时候无法重新start aht
+

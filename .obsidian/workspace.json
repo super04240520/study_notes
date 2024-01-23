@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go学习/入门.md",
+                "file": "grab/开发相关/AHT/ALL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go学习/入门.md",
+                "file": "grab/开发相关/AHT/ALL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go学习/入门.md",
+                "file": "grab/开发相关/AHT/ALL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go学习/入门.md"
+                "file": "grab/开发相关/AHT/ALL.md"
               }
             }
           },
@@ -186,27 +186,28 @@
   },
   "active": "0de39613a309d4b3",
   "lastOpenFiles": [
+    "grab/开发相关/rollback/dev.md",
+    "grab/开发相关/rollback/change  street view base url.md",
+    "grab/开发相关/change log/1.md",
+    "grab/开发相关/AHT/POI-man AHT.md",
+    "grab/开发相关/AHT/ALL.md",
+    "grab/开发相关/KARTAPLACE-1734Add POI category on the add place v2.md",
+    "grab/开发相关/未命名.md",
+    "go学习/入门.md",
     "Screenshot 2024-01-22 at 12.33.57.png",
     "Pasted image 20240120162756.png",
     "Screenshot 2024-01-21 at 21.07.48.png",
     "Pasted image 20231018141254.png",
-    "go学习/入门.md",
     "Pasted image 20240120140022.png",
     "Pasted image 20240120140007.png",
     "grab/feedback and p &p.md",
     "grab/oncall.md",
     "grab/部分权限和文档.md",
     "grab/todo.md",
-    "grab/开发相关/AHT/POI-man AHT.md",
-    "grab/开发相关/AHT/ALL.md",
-    "grab/开发相关/change log/1.md",
-    "grab/开发相关/未命名.md",
     "Pasted image 20231228105717.png",
     "grab/开发wiki & figma.md",
     "grab/学习/Nick写了一个邮件，这个表述项目的方式很好，明确了解决了什么问题，做了什么，碰到什么难点，和下一步思路 ，大家可以参考这个思路写自己的工作总结。详细内容贴在了thread 里.md",
     "前端学习/js数组新方法.md",
-    "grab/开发相关/rollback/dev.md",
-    "grab/开发相关/rollback/change  street view base url.md",
     "grab/开发相关/AHT",
     "h.md",
     "前端学习/有趣的包.md",
@@ -228,7 +229,6 @@
     "教辅机构",
     "grab/开发相关/street man",
     "前端学习/pnpm",
-    "Pasted image 20230728110410.png",
     "grab/KA",
     "grab/学习",
     "grab/开发相关/rollback",
