@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/2024/scan.md",
+                "file": "grab/部分权限和文档.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/2024/scan.md",
+                "file": "grab/部分权限和文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/2024/scan.md",
+                "file": "grab/部分权限和文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/2024/scan.md"
+                "file": "grab/部分权限和文档.md"
               }
             }
           },
@@ -198,8 +198,12 @@
   },
   "active": "0de39613a309d4b3",
   "lastOpenFiles": [
-    "grab/2024/2024年Q1.md",
+    "grab/开发wiki & figma.md",
+    "grab/部分权限和文档.md",
+    "grab/oncall.md",
+    "grab/feedback and p &p.md",
     "grab/2024/scan.md",
+    "grab/2024/2024年Q1.md",
     "grab/问卷/收集.md",
     "grab/2024",
     "Pasted image 20240129161711.png",
@@ -222,11 +226,7 @@
     "grab/开发相关/KARTAPLACE-1734Add POI category on the add place v2.md",
     "grab/开发相关/未命名.md",
     "go学习/入门.md",
-    "grab/feedback and p &p.md",
-    "grab/oncall.md",
-    "grab/部分权限和文档.md",
     "grab/todo.md",
-    "grab/开发wiki & figma.md",
     "grab/学习/Nick写了一个邮件，这个表述项目的方式很好，明确了解决了什么问题，做了什么，碰到什么难点，和下一步思路 ，大家可以参考这个思路写自己的工作总结。详细内容贴在了thread 里.md",
     "前端学习/js数组新方法.md",
     "grab/开发相关/AHT",
