@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/部分权限和文档.md",
+                "file": "grab/开发相关/street scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/部分权限和文档.md",
+                "file": "grab/开发相关/street scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/部分权限和文档.md",
+                "file": "grab/开发相关/street scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/部分权限和文档.md"
+                "file": "grab/开发相关/street scan.md"
               }
             }
           },
@@ -196,14 +196,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d8bdc8342db34b2",
+  "active": "570ba8c7229f4611",
   "lastOpenFiles": [
+    "grab/部分权限和文档.md",
     "grab/todo.md",
     "grab/oncall.md",
     "grab/feedback and p &p.md",
     "grab/问卷/收集.md",
     "grab/开发wiki & figma.md",
-    "grab/部分权限和文档.md",
     "grab/2024/scan.md",
     "grab/2024/2024年Q1.md",
     "grab/2024",
