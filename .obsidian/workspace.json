@@ -11,8 +11,12 @@
             "id": "0701f7a3c0d5cab9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "grab/开发相关/roles权限梳理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "grab/开发相关/roles权限梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "grab/开发相关/roles权限梳理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "grab/开发相关/roles权限梳理.md"
+              }
             }
           },
           {
@@ -190,8 +198,10 @@
   },
   "active": "0701f7a3c0d5cab9",
   "lastOpenFiles": [
-    "grab/oncall.md",
+    "grab/开发相关/未命名.md",
+    "grab/开发相关/roles权限梳理.md",
     "grab/开发相关/street scan.md",
+    "grab/oncall.md",
     "grab/部分权限和文档.md",
     "grab/todo.md",
     "grab/feedback and p &p.md",
@@ -218,7 +228,6 @@
     "grab/开发相关/change log/1.md",
     "grab/开发相关/AHT/POI-man AHT.md",
     "grab/开发相关/KARTAPLACE-1734Add POI category on the add place v2.md",
-    "grab/开发相关/未命名.md",
     "go学习/入门.md",
     "grab/学习/Nick写了一个邮件，这个表述项目的方式很好，明确了解决了什么问题，做了什么，碰到什么难点，和下一步思路 ，大家可以参考这个思路写自己的工作总结。详细内容贴在了thread 里.md",
     "前端学习/js数组新方法.md",
@@ -229,7 +238,6 @@
     "grab/开发相关/street man/feed back.md",
     "grab/KA/2022KA.md",
     "grab/开发相关/change log",
-    "grab/开发相关/data mock.md",
     "廖金-前端开发.pdf",
     "grab/spring",
     "教辅机构",
