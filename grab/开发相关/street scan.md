@@ -3,3 +3,6 @@
 
 
 [Log in - Jira](https://jira.grab.com/browse/JARVIS-1837)
+
+
+街景图重新更改，task图片做分类。
