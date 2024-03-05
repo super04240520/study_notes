@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/开发相关/AHT/ALL.md",
+                "file": "grab/terraform/学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/开发相关/AHT/ALL.md",
+                "file": "grab/terraform/学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/开发相关/AHT/ALL.md",
+                "file": "grab/terraform/学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/开发相关/AHT/ALL.md"
+                "file": "grab/terraform/学习.md"
               }
             }
           },
@@ -211,6 +211,9 @@
   },
   "active": "0c009016851ff518",
   "lastOpenFiles": [
+    "grab/开发相关/AHT/ALL.md",
+    "grab/terraform/学习.md",
+    "grab/terraform",
     "Pasted image 20240305135725.png",
     "fsq.md",
     "grab/开发相关/street scan.md",
@@ -238,9 +241,7 @@
     "Pasted image 20240129155735.png",
     "Pasted image 20240129155339.png",
     "Pasted image 20240129154807.png",
-    "Pasted image 20240129154732.png",
     "未命名 1.md",
-    "grab/开发相关/AHT/ALL.md",
     "grab/问卷",
     "grab/开发相关/rollback/dev.md",
     "grab/开发相关/rollback/change  street view base url.md",
@@ -256,7 +257,6 @@
     "教辅机构",
     "grab/开发相关/street man",
     "前端学习/pnpm",
-    "grab/KA",
     "grab/test_uplad.canvas"
   ]
 }
