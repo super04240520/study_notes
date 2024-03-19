@@ -12,3 +12,5 @@ test: w21zdz
 current: [JARVIS-1900](https://jira.grab.com/browse/JARVIS-1900)
 
 
+ KARTAPLACE-1850
+
