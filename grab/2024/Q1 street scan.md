@@ -11,6 +11,11 @@
 test: w21zdz
 current: [JARVIS-1900](https://jira.grab.com/browse/JARVIS-1900)
 
+ui:
+	编辑后的状态, 
+	 同时选中,同时编辑
+	 选中一个,编辑另一个.
+
 
  KARTAPLACE-1850
 
