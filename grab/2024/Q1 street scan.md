@@ -11,11 +11,24 @@
 test: w21zdz
 current: [JARVIS-1900](https://jira.grab.com/browse/JARVIS-1900)
 
+
+
+ KARTAPLACE-1850
+q缺:
+ 1、street view 
+ 2、card 和 maker联动
+	 select all 和单独的 checked的数据 以及maker 联动
+ 3、single submit / 单独的详情card, 
+ 4、maker的状态更新
+ 5、submit
+	 两个提交
+ 6、套索数据提取
+	 需要一个工具函数, 提取出选择的taskid, 需要在layer中,添加task_id
+
+
 ui:
 	编辑后的状态, 
 	 同时选中,同时编辑
 	 选中一个,编辑另一个.
-
-
- KARTAPLACE-1850
+ 
 
