@@ -19,12 +19,13 @@ q缺:
  2、card 和 maker联动
 	 select all 和单独的 checked的数据 以及maker 联动
  3、single submit / 单独的详情card, 
- 4、maker的状态更新
+ ~~4、maker的状态更新~~
  5、submit
 	 两个提交
- 6、套索数据提取
-	 需要一个工具函数, 提取出选择的taskid, 需要在layer中,添加task_id
+ ~~6、套索数据提取~~
+	 ~~需要一个工具函数, 提取出选择的taskid, 需要在layer中,添加task_id~~
 
+qw3zk5
 
 ui:
 	编辑后的状态, 
