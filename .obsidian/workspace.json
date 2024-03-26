@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c009016851ff518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grab/2024/Q1 street scan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +196,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c009016851ff518",
+  "active": "e6734da80b188fcc",
   "lastOpenFiles": [
     "grab/2024/2024年Q1.md",
     "grab/todo.md",
