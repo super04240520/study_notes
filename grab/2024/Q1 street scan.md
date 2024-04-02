@@ -50,5 +50,6 @@ claim 新增source
 	 9、name取值,取第一个值. 1
 	 10、sumbit erro 没报出来  1
 	 11, submit &next只要有成功的, 就可以点击1
+	 12, 去掉claim hash的日期
 		
 
