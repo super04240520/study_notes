@@ -41,7 +41,7 @@ claim 新增source
 4月2
 	1、拉索, 添加filer
 	2、 随机claim 10个。 low
-	 3、猫店定位。 pre-task。 只有更新状态时, 进行下一个. 1
+	 3、~~猫店定位。 pre-task。~~ 只有更新状态时, 进行下一个. 1
 	 4、nearby list table 1
 	 5、form 添加 admian area parh 1
 	 6、点击跳转,latitude的form的页面 1
