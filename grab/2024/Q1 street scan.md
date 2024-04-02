@@ -46,10 +46,10 @@ claim 新增source
 	 ~~5、form 添加 admian area parh 1~~
 	 6、点击跳转,latitude的form的页面 1
 	 7、appear hours for card
-	 8、edit 后, 默认选中task,  maker位置没有更新 1
+	 ~~8、edit 后, 默认选中task,  maker位置没有更新 1~~
 	 ~~9、name取值,取第一个值. 1~~
-	 10、sumbit erro 没报出来  1
-	 11, submit &next只要有成功的, 就可以点击1
+	 ~~10、sumbit erro 没报出来  1~~~~
+	 ~~11, submit &next只要有成功的, 就可以点击1~~
 	 12, 去掉claim hash的日期
 
 demo  mock
