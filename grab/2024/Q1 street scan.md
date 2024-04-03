@@ -58,7 +58,8 @@ demo  mock
 	 nearby 搜索高亮 icon 变小, 
 	 margin 改变小一点. 
 	  前端不展示:  已经操作过的
-    添加一个filter 在拉索和task中的拉索
+     添加一个filter 在拉索和task中的拉索
+     task list 改成抽屉. 图片展示在右侧.
     
 	 
 	 
