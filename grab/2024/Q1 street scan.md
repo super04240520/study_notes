@@ -62,18 +62,18 @@ demo  mock
      task list 改成抽屉. 图片展示在右侧.
 
 
-1. geohash map 没按照用户所属跳转 [@dongming.wang](https://grab.slack.com/team/WS8MXCUMD)
+1. ~~geohash map 没按照用户所属跳转 [@dongming.wang](https://grab.slack.com/team/WS8MXCUMD)~~
 2. landing page filter如果选择或者添选的geohash值，pending count数量不对 [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL) chao.an
 3. 套索圈选的point，shift按键冲突，layer UI样式， 销毁error [@dongming.wang](https://grab.slack.com/team/WS8MXCUMD)
-4. 选中的point layer样式，非选中的为透明状态 [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
+4. ~~选中的point layer样式，非选中的为透明状态 [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)~~
 5. task submit error  @ anchao
 6. ~~API error message [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)~~
-7. 同一地点多个poi覆盖UI，search nearby UI需要设计
+7. ~~同一地点多个poi覆盖UI，search nearby UI需要设计~~
 8. kartaview tool [@dongming.wang](https://grab.slack.com/team/WS8MXCUMD)
 9. latitude 图片添加 [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
 10. 更改layout，允许显示多个状态的task以及filter [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
 11. 跳转到详情页面编辑 [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
 12. 创建额外新的poi [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
 	 
-	 
+
 
