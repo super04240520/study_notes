@@ -73,7 +73,7 @@ demo  mock
 9. latitude 图片添加 [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
 10. 更改layout，允许显示多个状态的task以及filter [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
 11. 跳转到详情页面编辑 [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
-12. 创建额外新的poi [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)
+12. ~~创建额外新的poi [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL)~~
 	 
 
 
