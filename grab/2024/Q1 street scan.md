@@ -87,7 +87,7 @@ E-YKjfiLwZM3dtxbJ6QAjeA==
 	 1. ~~当review时,非review的layer只灰~~
  4. 聚合layer的状态。和hover后的poi name   @dongming
  5. task list页面 页面聚合 @dongming
- 6. filter btn @changlin
+ 6. ~~filter btn @changlin~~
  7. gettaskby geohash 与get detail的状态不一致 @chao.an
  8.  ~~全部走batch-submit @changlin~~
  9. ~~点击更新后, card按钮全部disable掉, 做完就置灰 @changlin~~
