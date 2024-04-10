@@ -83,17 +83,17 @@ E-YKjfiLwZM3dtxbJ6QAjeA==
 4.9 
  1. geohash map rerender @dongming.wang
  2.  accept reject的有信息框
- 3. task maker 换 成layer和feature组合 就可以拖拽了 文字 style  @changlin
-	 1. 当review时,非review的layer只灰
+ 3. ~~task maker 换 成layer和feature组合 就可以拖拽了 文字 style  @changlin~~
+	 1. ~~当review时,非review的layer只灰~~
  4. 聚合layer的状态。和hover后的poi name   @dongming
  5. task list页面 页面聚合 @dongming
  6. filter btn @changlin
  7. gettaskby geohash 与get detail的状态不一致 @chao.an
- 8.  全部走batch-submit @changlin
- 9. 点击更新后, card按钮全部disable掉, 做完就置灰 @changlin
+ 8.  ~~全部走batch-submit @changlin~~
+ 9. ~~点击更新后, card按钮全部disable掉, 做完就置灰 @changlin~~
  10. 进详情后,的nearby style. @changlin
  11. ath 中 submisubmit跟计时器绑定 @changlin  按钮 AHT submit
- 12. author在submist上的时候,绑定
+ 12. ~~author在submist上的时候,绑定~~
  13. batch park 状态拦截 @chao.an
  14. latitude source create new poi 接口 @chao.an
  15. claim page count @chao.an
