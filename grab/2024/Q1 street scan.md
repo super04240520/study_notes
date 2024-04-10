@@ -92,7 +92,7 @@ E-YKjfiLwZM3dtxbJ6QAjeA==
  8.  ~~全部走batch-submit @changlin~~
  9. ~~点击更新后, card按钮全部disable掉, 做完就置灰 @changlin~~
  10. ~~进详情后,的nearby style. @changlin~~
- 11. ath 中 submisubmit跟计时器绑定 @changlin  按钮 AHT submit
+ 11. ~~ath 中 submisubmit跟计时器绑定 @changlin  按钮 AHT submit~~
  12. ~~author在submist上的时候,绑定~~
  13. batch park 状态拦截 @chao.an
  14. latitude source create new poi 接口 @chao.an
