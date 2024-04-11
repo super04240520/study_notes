@@ -99,3 +99,11 @@ E-YKjfiLwZM3dtxbJ6QAjeA==
  15. claim page count @chao.an
  16. ~~imge的值text的值~~
 
+
+4.10
+1. 图片懒加载
+2. status == 0 更新状态
+3. 点击详情页没进去
+4. pending task 接口
+
+
