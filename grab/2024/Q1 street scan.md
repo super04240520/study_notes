@@ -107,7 +107,7 @@ Dongming Wang  [下午 5:46](https://grab.slack.com/archives/C06N6BMJUQL/p1712
 1. Landing Page
 	1. geohash map点击后，显示为0 @dongming.wang 
 2. list page
-	1. filter 除pending以外的状态，全部隐藏 @changlin.shi 
+	1. ~~filter 除pending以外的状态，全部隐藏 @changlin.shi~~ 
 	2. reselect 去掉选择的 @dongming.wang 
 	3. 进入review list缺少loading @changlin.shi 
 3. review list page
@@ -115,7 +115,7 @@ Dongming Wang  [下午 5:46](https://grab.slack.com/archives/C06N6BMJUQL/p1712
 	2. cluster layer取消 @dongming.wang 
 	3. ~~点击card上的name不跳转 @changlin.shi~~ 
 	4. ~~card上图片宽度样式 @changlin.shi~~ 
-	5. filter status为0的时候不过滤 @changlin.shi 
+	5. ~~filter status为0的时候不过滤 @changlin.shi~~ 
 	6. 点击图片后，图片查看器样式 @dongming.wang 
 	7. 提交后提示信息缺失，错误或者成功@changlin.shi 
 	8. ~~用notification提示信息提交失败对错 @changlin.shi~~ 
