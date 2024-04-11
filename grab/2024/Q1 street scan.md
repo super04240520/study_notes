@@ -101,9 +101,26 @@ E-YKjfiLwZM3dtxbJ6QAjeA==
 
 
 4.10
-1. 图片懒加载
-2. status == 0 更新状态
-3. 点击详情页没进去
-4. pending task 接口
+  
+Dongming Wang  [下午 5:46](https://grab.slack.com/archives/C06N6BMJUQL/p1712828805494469)  
 
+1. Landing Page
+	1. geohash map点击后，显示为0 @dongming.wang 
+2. list page
+	1. filter 除pending以外的状态，全部隐藏 @changlin.shi 
+	2. reselect 去掉选择的 @dongming.wang 
+	3. 进入review list缺少loading @changlin.shi 
+3. review list page
+	1. hover 地图不高亮 @changlin.shi 
+	2. cluster layer取消 @dongming.wang 
+	3. 点击card上的name不跳转 @changlin.shi 
+	4. card上图片宽度样式 @changlin.shi 
+	5. filter status为0的时候不过滤 @changlin.shi 
+	6. 点击图片后，图片查看器样式 @dongming.wang 
+	7. 提交后提示信息缺失，错误或者成功@changlin.shi 
+	8. 用notification提示信息提交失败对错 @changlin.shi 
+	9. 套索的时候，kartaview点击地图事件冲突 @dongming.wang 
+	10. submit AHT & next，跳转到list page @changlin.shi 
+	11. 返回list page nearby 没有清空 @changlin.shi 
+	12. nearby list样式，button剧中 @dongming.wang
 
