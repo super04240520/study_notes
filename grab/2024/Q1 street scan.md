@@ -114,7 +114,7 @@ Dongming Wang  [下午 5:46](https://grab.slack.com/archives/C06N6BMJUQL/p1712
 	1. hover 地图不高亮 @changlin.shi 
 	2. cluster layer取消 @dongming.wang 
 	3. ~~点击card上的name不跳转 @changlin.shi~~ 
-	4. card上图片宽度样式 @changlin.shi 
+	4. ~~card上图片宽度样式 @changlin.shi~~ 
 	5. filter status为0的时候不过滤 @changlin.shi 
 	6. 点击图片后，图片查看器样式 @dongming.wang 
 	7. 提交后提示信息缺失，错误或者成功@changlin.shi 
