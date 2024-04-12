@@ -131,4 +131,17 @@ source 最后一个可以不展示
 
 stg
 1. geohash  圈之前的zoom 
-2. claim 随机12个task id
+2. claim 上限12个
+3. go back landing page -->change geohash map
+4. getdetail loading
+5. filter style
+6. nearby list 添加poiid copy
+7. card submit loading
+8. submit 成功后, quey的taskid更新
+	1. task id 不清除task card
+	2. success 返回claim geohash page
+	3.
+9. 如果有计时器,重新圈选的时候提醒框,先submit或者暂停计时器
+10. park and next后claim geohash page
+	1. park后的layer没有更新,tasklist
+	2. 聚类的park状态
