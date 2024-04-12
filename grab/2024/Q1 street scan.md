@@ -145,3 +145,5 @@ stg
 10. park and next后claim geohash page
 	1. park后的layer没有更新,tasklist
 	2. 聚类的park状态
+
+	
