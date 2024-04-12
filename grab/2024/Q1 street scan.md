@@ -127,3 +127,8 @@ Dongming Wang  [下午 5:46](https://grab.slack.com/archives/C06N6BMJUQL/p1712
 
 
 source 最后一个可以不展示
+
+
+stg
+1. geohash  圈之前的zoom 
+2. claim 随机12个task id
