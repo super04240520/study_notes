@@ -134,7 +134,7 @@ stg
 2. ~~claim 上限12个~~
 3. go back landing page -->change geohash map
 4. getdetail loading
-5. filter style
+5. ~~filter style~~
 6. nearby list 添加poiid copy
 7. card submit loading
 8. submit 成功后, quey的taskid更新
