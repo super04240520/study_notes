@@ -133,7 +133,7 @@ stg
 1. geohash  圈之前的zoom 
 2. ~~claim 上限12个~~
 3. go back landing page -->change geohash map
-4. getdetail loading
+4. ~~getdetail loading~~
 5. ~~filter style~~
 6. nearby list 添加poiid copy
 7. card submit loading
