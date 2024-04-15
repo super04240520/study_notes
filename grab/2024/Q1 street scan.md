@@ -130,7 +130,7 @@ source 最后一个可以不展示
 
 
 stg
-1. geohash  圈之前的zoom 
+1. ~~geohash  圈之前的zoom~~ 
 2. ~~claim 上限12个~~
 3. go back landing page -->change geohash map
 4. ~~getdetail loading~~
@@ -144,6 +144,6 @@ stg
 9. 如果有计时器,重新圈选的时候提醒框,先submit或者暂停计时器
 10. park and next后claim geohash page
 	1. park后的layer没有更新,tasklist
-	2. 聚类的park状态
+	2. ~~聚类的park状态~~
 
 	
