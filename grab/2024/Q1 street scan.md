@@ -131,7 +131,7 @@ source 最后一个可以不展示
 
 stg
 1. geohash  圈之前的zoom 
-2. claim 上限12个
+2. ~~claim 上限12个~~
 3. go back landing page -->change geohash map
 4. getdetail loading
 5. filter style
