@@ -147,7 +147,7 @@ stg
 	2. ~~聚类的park状态~~
 
 1、loading
-2、reviewmodel
+~~2、reviewmodel~~
 3、 aht batch
 4、accept 地图 name没更新, 失败后,按钮状态更新, 多个layer
 5、tasklist 刷新两次的路由缺失
