@@ -151,3 +151,11 @@ stg
 3、 ~~aht batch~~
 4、accept 地图 name没更新, 失败后,按钮状态更新, 多个layer
 5、tasklist 刷新两次的路由缺失
+
+
+
+
+[Log in - Jira](https://jira.grab.com/browse/JARVIS-2085)
+
+1. [JARVIS-2065](https://jira.grab.com/browse/JARVIS-2065)
+
