@@ -159,3 +159,16 @@ stg
 
 1. [JARVIS-2065](https://jira.grab.com/browse/JARVIS-2065)
 
+ 1、在geohash页面 in review 状态的task , layer透明区分
+ 2、拉索工具 padding和下面地图工具的style保持一致
+		a: delete 按键 删除layer
+		 b: 拉索geofence point的style
+ 3、banner图
+	 轮播按钮下移
+	 auto play
+   4、ui  @yaqing
+	   nearby icon
+	   review 后的状态
+	5、
+	 
+ 
