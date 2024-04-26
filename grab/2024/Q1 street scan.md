@@ -169,6 +169,6 @@ stg
    4、ui  @yaqing
 	   nearby icon
 	   review 后的状态
-	5、
+ 5、两个以上的task:  batch 按钮  active
 	 
  
