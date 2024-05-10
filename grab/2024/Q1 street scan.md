@@ -170,5 +170,9 @@ stg
 	   nearby icon
 	   review 后的状态
  5、两个以上的task:  batch 按钮  active
-	 
+
+
+
+park的状态需要添加comment  @chao.an
+
  
