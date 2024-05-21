@@ -1,5 +1,13 @@
-1. 2-checker
-2. street-man
-3. batches update ops permissions 
-4. street-sacn
-5. 
+    
+1. . street-scan
+	1. 想提供一种基于之前单个review的逻辑,来进行沿着街道进行batch review 
+	  2.这个项目预期内希望提高至少20%的效率.
+	
+2. universal task
+	  统一工作流,使用同一个页面.针对Myc在univeral task中的特殊性, 帮助完成了多少task数量, MYC相对于之前提高的效率(AHT, 以及task数量)
+3.  ops feedback
+	1. batch update ops permission
+
+主要的工作是poi karta的开发以及维护工作流, 帮助ops提高工作效率,以及提高POI的质量.
+
+   
