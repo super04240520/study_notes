@@ -6,7 +6,11 @@
 2. universal task
 	  统一工作流,使用同一个页面.针对Myc在univeral task中的特殊性, 帮助完成了多少task数量, MYC相对于之前提高的效率(AHT, 以及task数量)
 3.  ops feedback
-	1. batch update ops permission
+	1. Add user groups tool by manager
+	2. Support to create extra poi in the latitude task
+	3. Showing the geofence data on the POI detail & update page
+	4. Route Compare in POI management
+
 
 主要的工作是poi karta的开发以及维护工作流, 帮助ops提高工作效率,以及提高POI的质量.
 
