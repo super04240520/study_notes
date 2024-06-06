@@ -4,7 +4,7 @@
 	  2.这个项目预期内希望提高至少20%的效率.
 	
 2. universal task
-	  统一工作流,使用同一个页面.针对Myc在univeral task中的特殊性, 帮助完成了多少task数量, MYC相对于之前提高的效率(AHT, 以及task数量)
+	  统一工作流,使用同一个页面.针对MYC在univeral task中的特殊性, 帮助完成48万task.提高了ops的review效率
 3.  ops feedback
 	1. Add user groups tool by manager
 	2. Support to create extra poi in the latitude task
