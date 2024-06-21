@@ -64,9 +64,21 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "da666a0a51b29fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grab/2024/gpt annotation review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/KA/2022KA.md",
+                "file": "grab/2024/gpt annotation review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/KA/2022KA.md",
+                "file": "grab/2024/gpt annotation review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/KA/2022KA.md"
+                "file": "grab/2024/gpt annotation review.md"
               }
             }
           },
@@ -243,8 +255,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b13abccbea0796bb",
+  "active": "da666a0a51b29fc6",
   "lastOpenFiles": [
+    "未命名 3.md",
+    "grab/2024/gpt annotation review.md",
     "grab/2024/ka.md",
     "grab/2024/Q1 street scan.md",
     "grab/KA/2022KA.md",
@@ -275,7 +289,6 @@
     "grab/开发相关/roles权限梳理.md",
     "grab/开发相关/KARTAPLACE-1734Add POI category on the add place v2.md",
     "grab/开发相关/poi sync.md",
-    "grab/开发相关/data mock.md",
     "grab/poi sync",
     "grab/terraform",
     "Pasted image 20240305135725.png",
