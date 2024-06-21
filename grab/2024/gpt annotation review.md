@@ -4,7 +4,7 @@ landing page:
 1. pending tasks, 柱状图需要显示
 2. ~~source select宽度太小~~
 Task list page :
-1. label改一下名称 accept/ pending task
+1. ~~label改一下名称 accept/ pending task~~
 
 1. 数据问题 @chao
 	1. name为空
