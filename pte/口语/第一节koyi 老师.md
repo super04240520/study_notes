@@ -24,3 +24,4 @@ DI 命中率高
 
 多练评分点:
 	
+![[Pasted image 20240623090846.png]]![[Pasted image 20240623091012.png]]![[Pasted image 20240623091025.png]]
