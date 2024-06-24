@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/2024/gpt annotation review.md",
+                "file": "pte/阅读/第一节.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/2024/gpt annotation review.md",
+                "file": "pte/阅读/第一节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/2024/gpt annotation review.md",
+                "file": "pte/阅读/第一节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/2024/gpt annotation review.md"
+                "file": "pte/阅读/第一节.md"
               }
             }
           },
@@ -257,6 +257,9 @@
   },
   "active": "da666a0a51b29fc6",
   "lastOpenFiles": [
+    "grab/2024/gpt annotation review.md",
+    "pte/阅读/第一节.md",
+    "pte/阅读",
     "grab/2024/ka.md",
     "grab/2024/scan.md",
     "grab/2024/2024年Q1.md",
@@ -275,7 +278,6 @@
     "Pasted image 20240623074749.png",
     "Pasted image 20240622084853.png",
     "Pasted image 20240622082834.png",
-    "grab/2024/gpt annotation review.md",
     "pte/写作",
     "未命名",
     "pte",
@@ -301,7 +303,6 @@
     "grab/poi sync",
     "grab/terraform",
     "grab/2024",
-    "grab/问卷",
     "grab/test_uplad.canvas"
   ]
 }
