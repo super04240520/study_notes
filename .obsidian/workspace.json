@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pte/口语/第一节koyi 老师.md",
+                "file": "pte/写作/第一节.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pte/口语/第一节koyi 老师.md",
+                "file": "pte/写作/第一节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pte/口语/第一节koyi 老师.md",
+                "file": "pte/写作/第一节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pte/口语/第一节koyi 老师.md"
+                "file": "pte/写作/第一节.md"
               }
             }
           },
@@ -257,6 +257,8 @@
   },
   "active": "da666a0a51b29fc6",
   "lastOpenFiles": [
+    "pte/写作/作业.md",
+    "pte/口语/第一节koyi 老师.md",
     "Pasted image 20240623093137.png",
     "Pasted image 20240623092017.png",
     "Pasted image 20240623091821.png",
@@ -265,14 +267,11 @@
     "Pasted image 20240623090846.png",
     "Pasted image 20240623083058.png",
     "pte/写作/第一节.md",
-    "pte/口语/第一节koyi 老师.md",
     "pte/口语",
     "pte/听力.md",
-    "pte/写作/作业.md",
     "Pasted image 20240623074749.png",
     "Pasted image 20240622084853.png",
     "Pasted image 20240622082834.png",
-    "Pasted image 20240622082300.png",
     "grab/2024/gpt annotation review.md",
     "pte/写作",
     "未命名",
