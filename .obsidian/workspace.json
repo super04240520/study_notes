@@ -76,9 +76,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acd331bf8581e3c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,7 +265,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da666a0a51b29fc6",
+  "active": "acd331bf8581e3c9",
   "lastOpenFiles": [
     "grab/2024/2024年Q1.md",
     "grab/2024/add user group.md",
