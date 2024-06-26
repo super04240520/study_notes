@@ -19,3 +19,15 @@ Task list page :
 5. accept/reject 不需要弹框
 6. 图片加载失败，加reload
 7. disposition reason与pgm聊是否添加
+
+
+
+1. 添加清空候选pois按钮 
+2. 编辑候选poi时，添加gpt识别信息 
+3. ~~添加nearby功能~~ 
+4. 经纬度icon换 
+5. 未识别情况下，兼容空数据 
+6. 画框在review禁用 
+7. 删除上下图片按钮，点击下一个task缩略图时，显示下一个图片 
+8. ~~card上的多语言显示，一个一行~~
+9. 数据 1. 数据结构 2. 多语言删除过滤的 3. 画一个框多个poi，生成多个task，即一个task对应一个poi
