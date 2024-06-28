@@ -8,6 +8,8 @@
 4、annotation review
       a: 图片定位到annotation 框
         gpt 信息和poi 信息的转换. 还有gpt 卡片展示逻辑修复
+    b: disable the btn when user submit the task(change status)
+      c:  update existing_duplicated_poi_ids 问题,
 5、图片点击问题
 		根据img id和task id  re-render
 		
