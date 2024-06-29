@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/2024/GPT annotation.md",
+                "file": "pte/听力/听力.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/2024/GPT annotation.md",
+                "file": "pte/听力/听力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/2024/GPT annotation.md",
+                "file": "pte/听力/听力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/2024/GPT annotation.md"
+                "file": "pte/听力/听力.md"
               }
             }
           },
@@ -269,8 +269,9 @@
   },
   "active": "acd331bf8581e3c9",
   "lastOpenFiles": [
-    "grab/2024/gpt annotation review.md",
+    "pte/听力/第二节.md",
     "grab/2024/GPT annotation.md",
+    "grab/2024/gpt annotation review.md",
     "grab/2024/scan.md",
     "grab/2024/Q1 street scan.md",
     "pte/听力/听力.md",
@@ -311,7 +312,6 @@
     "KA.md",
     "未命名 2.md",
     "grab/terraform/学习.md",
-    "未命名 1.md",
     "廖金-前端开发.pdf",
     "grab/poi sync",
     "grab/terraform",
