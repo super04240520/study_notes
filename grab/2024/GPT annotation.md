@@ -2,8 +2,8 @@
 ~~2、accept的 pin hover的pop up 数据展示(根据source判断数据源) 0.5~~
 3、annotation 页面 按钮问题 2
 		a: 画框确定当前task
-			当点击图片时, 其他根据当前task, 锁定, 将其他btn disable
-		 b:  根据是是否存在 画框数据, 给定task 一个状态, 比如: no annotation data ,画后去除
+			~~当点击图片时, 其他根据当前task, 锁定, 将其他btn disable~~
+		 ~~b:  根据是是否存在 画框数据, 给定task 一个状态, 比如: no annotation data ,画后去除~~
 	
 4、annotation review
       a: 图片定位到annotation 框 (kartaview api)
