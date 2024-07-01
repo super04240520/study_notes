@@ -1,5 +1,5 @@
 1、poi id 可选 并可以搜索, 创建 2
-2、accept的 pin hover的pop up 数据展示(根据source判断数据源) 0.5
+~~2、accept的 pin hover的pop up 数据展示(根据source判断数据源) 0.5~~
 3、annotation 页面 按钮问题 2
 		a: 画框确定当前task
 			当点击图片时, 其他根据当前task, 锁定, 将其他btn disable
