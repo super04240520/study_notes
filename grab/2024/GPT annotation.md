@@ -11,7 +11,7 @@
     b: disable the btn when user submit the task(change status)
     <font color="#c0504d">  c:  update existing_duplicated_poi_ids 问题,</font>
 5、图片点击问题
-		根据img id和task id  re-render(不同task共用同一张360)
+		~~根据img id和task id  re-render(不同task共用同一张360)~~
 		 
 <font color="#ffc000">history review page for annotation review </font>
 1、ID 可选, 动态添加 
