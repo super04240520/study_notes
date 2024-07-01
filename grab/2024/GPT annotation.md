@@ -7,7 +7,7 @@
 	
 4、annotation review
       a: 图片定位到annotation 框 (kartaview api)
-        gpt 信息和poi 数据的转换(选中逻辑切换). 还有gpt 卡片展示逻辑修复
+        ~~gpt 信息和poi 数据的转换(选中逻辑切换). 还有gpt 卡片展示逻辑修复~~
     b: disable the btn when user submit the task(change status)
     <font color="#c0504d">  c:  update existing_duplicated_poi_ids 问题,</font>
 5、图片点击问题
