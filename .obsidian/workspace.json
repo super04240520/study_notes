@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "61ecced36fc20551",
@@ -269,6 +270,15 @@
   },
   "active": "acd331bf8581e3c9",
   "lastOpenFiles": [
+    "Pasted image 20240704100149.png",
+    "pte/听力/听力.md",
+    "pte/听力/第三节.md",
+    "grab/2024/GPT annotation.md",
+    "grab/2024/gpt annotation review.md",
+    "grab/2024/scan.md",
+    "grab/2024/Q1 street scan.md",
+    "grab/2024/add user group.md",
+    "pte/听力/wfd.md",
     "Pasted image 20240701164252.png",
     "Pasted image 20240701164240.png",
     "Pasted image 20240701163756.png",
@@ -279,17 +289,8 @@
     "Pasted image 20240701161944.png",
     "Pasted image 20240701161858.png",
     "Pasted image 20240701161310.png",
-    "pte/听力/第三节.md",
-    "pte/听力/wfd.md",
-    "pte/听力/听力.md",
-    "Pasted image 20240701160834.png",
-    "grab/2024/GPT annotation.md",
-    "grab/2024/gpt annotation review.md",
-    "grab/2024/scan.md",
-    "grab/2024/Q1 street scan.md",
     "pte/听力",
     "grab/2024/2024年Q1.md",
-    "grab/2024/add user group.md",
     "grab/2024/ka.md",
     "pte/阅读/第一节.md",
     "pte/阅读",
