@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pte/听力/wfd.md",
+                "file": "pte/口语/第二节课.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "61ecced36fc20551",
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pte/听力/wfd.md",
+                "file": "pte/口语/第二节课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pte/听力/wfd.md",
+                "file": "pte/口语/第二节课.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pte/听力/wfd.md"
+                "file": "pte/口语/第二节课.md"
               }
             }
           },
@@ -270,6 +269,11 @@
   },
   "active": "acd331bf8581e3c9",
   "lastOpenFiles": [
+    "Pasted image 20240706082145.png",
+    "Pasted image 20240706081811.png",
+    "pte/口语/第一节koyi 老师.md",
+    "pte/口语/第二节课.md",
+    "pte/听力/wfd.md",
     "Pasted image 20240704101310.png",
     "Pasted image 20240704100932.png",
     "Pasted image 20240704100149.png",
@@ -280,15 +284,12 @@
     "grab/2024/scan.md",
     "grab/2024/Q1 street scan.md",
     "grab/2024/add user group.md",
-    "pte/听力/wfd.md",
     "Pasted image 20240701164252.png",
     "Pasted image 20240701164240.png",
     "Pasted image 20240701163756.png",
     "Pasted image 20240701163252.png",
     "Pasted image 20240701163248.png",
     "Pasted image 20240701162643.png",
-    "Pasted image 20240701162350.png",
-    "Pasted image 20240701161944.png",
     "pte/听力",
     "grab/2024/2024年Q1.md",
     "grab/2024/ka.md",
@@ -296,7 +297,6 @@
     "pte/阅读",
     "pte/写作/第一节.md",
     "pte/写作/作业.md",
-    "pte/口语/第一节koyi 老师.md",
     "pte/口语",
     "pte/听力.md",
     "pte/写作",
@@ -312,7 +312,6 @@
     "grab/feedback and p &p.md",
     "2023 Q3Q4.md",
     "高考",
-    "KA.md",
     "廖金-前端开发.pdf",
     "grab/poi sync",
     "grab/terraform",
