@@ -2,8 +2,9 @@
 
 格式分拿满
 语法 尽量拿满
-
 多写不扣分.
 
 
 ![[Pasted image 20240707071528.png]]![[Pasted image 20240707071812.png]]
+![[Pasted image 20240707075340.png]]
+![[Pasted image 20240707075355.png]]
