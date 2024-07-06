@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pte/写作/swt.md",
+                "file": "pte/写作/demo/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pte/写作/swt.md",
+                "file": "pte/写作/demo/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pte/写作/swt.md",
+                "file": "pte/写作/demo/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pte/写作/swt.md"
+                "file": "pte/写作/demo/1.md"
               }
             }
           },
@@ -269,12 +269,14 @@
   },
   "active": "acd331bf8581e3c9",
   "lastOpenFiles": [
+    "pte/写作/demo",
+    "pte/写作/swt.md",
+    "pte/写作/demo/1.md",
     "Pasted image 20240707071812.png",
     "pte/写作/作业.md",
     "pte/写作/第一节.md",
     "Pasted image 20240707071528.png",
     "Pasted image 20230728110446.png",
-    "pte/写作/swt.md",
     "Pasted image 20240707071256.png",
     "Pasted image 20240707070709.png",
     "Pasted image 20240707065828.png",
@@ -284,7 +286,6 @@
     "Pasted image 20240706085150.png",
     "Pasted image 20240706084516.png",
     "Pasted image 20240706083610.png",
-    "Pasted image 20240706083502.png",
     "pte/听力/wfd.md",
     "pte/听力/听力.md",
     "pte/听力/第三节.md",
@@ -310,7 +311,6 @@
     "grab/部分权限和文档.md",
     "grab/todo.md",
     "grab/开发wiki & figma.md",
-    "grab/feedback and p &p.md",
     "高考",
     "廖金-前端开发.pdf",
     "grab/poi sync",
