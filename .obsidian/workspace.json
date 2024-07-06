@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pte/口语/第一节koyi 老师.md",
+                "file": "pte/写作/swt.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pte/口语/第一节koyi 老师.md",
+                "file": "pte/写作/swt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pte/口语/第一节koyi 老师.md",
+                "file": "pte/写作/swt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pte/口语/第一节koyi 老师.md"
+                "file": "pte/写作/swt.md"
               }
             }
           },
@@ -269,7 +269,14 @@
   },
   "active": "acd331bf8581e3c9",
   "lastOpenFiles": [
+    "Pasted image 20240707070709.png",
+    "Pasted image 20240707065828.png",
+    "pte/写作/第一节.md",
+    "pte/写作/作业.md",
+    "pte/写作/swt.md",
+    "Pasted image 20240707065644.png",
     "pte/口语/第二节课.md",
+    "pte/口语/第一节koyi 老师.md",
     "Pasted image 20240706085150.png",
     "Pasted image 20240706084516.png",
     "Pasted image 20240706083610.png",
@@ -277,11 +284,8 @@
     "Pasted image 20240706083232.png",
     "Pasted image 20240706082145.png",
     "Pasted image 20240706081811.png",
-    "pte/口语/第一节koyi 老师.md",
     "pte/听力/wfd.md",
     "Pasted image 20240704101310.png",
-    "Pasted image 20240704100932.png",
-    "Pasted image 20240704100149.png",
     "pte/听力/听力.md",
     "pte/听力/第三节.md",
     "grab/2024/GPT annotation.md",
@@ -294,8 +298,6 @@
     "grab/2024/ka.md",
     "pte/阅读/第一节.md",
     "pte/阅读",
-    "pte/写作/第一节.md",
-    "pte/写作/作业.md",
     "pte/口语",
     "pte/听力.md",
     "pte/写作",
@@ -309,7 +311,6 @@
     "grab/todo.md",
     "grab/开发wiki & figma.md",
     "grab/feedback and p &p.md",
-    "2023 Q3Q4.md",
     "高考",
     "廖金-前端开发.pdf",
     "grab/poi sync",
