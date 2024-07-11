@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pte/阅读/1.md",
+                "file": "pte/口语/第二节课.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pte/阅读/1.md",
+                "file": "pte/口语/第二节课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pte/阅读/1.md",
+                "file": "pte/口语/第二节课.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pte/阅读/1.md"
+                "file": "pte/口语/第二节课.md"
               }
             }
           },
@@ -269,6 +269,9 @@
   },
   "active": "acd331bf8581e3c9",
   "lastOpenFiles": [
+    "pte/口语/未命一句话.md",
+    "未命名.canvas",
+    "pte/阅读/1.md",
     "Screenshot 2024-06-29 at 09.47.18.png",
     "Screenshot 2024-06-24 at 18.01.35.png",
     "Screenshot 2024-06-24 at 18.00.49.png",
@@ -279,9 +282,7 @@
     "Screenshot 2024-06-24 at 17.42.12.png",
     "Screenshot 2024-06-24 at 17.32.28.png",
     "Screenshot 2024-06-24 at 17.31.49.png",
-    "Screenshot 2024-06-24 at 17.30.23.png",
     "pte/阅读/2.md",
-    "pte/阅读/1.md",
     "pte/口语/第二节课.md",
     "pte/口语/第一节koyi 老师.md",
     "pte/写作/swt.md",
@@ -314,7 +315,6 @@
     "未命名 3.md",
     "grab/KA/2022KA.md",
     "grab/oncall.md",
-    "高考/北京地区.md",
     "grab/test_uplad.canvas"
   ]
 }
