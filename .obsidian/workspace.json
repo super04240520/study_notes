@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grab/2024/annotation.md",
+                "file": "pte/口语/Rs.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grab/2024/annotation.md",
+                "file": "pte/口语/Rs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grab/2024/annotation.md",
+                "file": "pte/口语/Rs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grab/2024/annotation.md"
+                "file": "pte/口语/Rs.md"
               }
             }
           },
@@ -269,8 +269,15 @@
   },
   "active": "acd331bf8581e3c9",
   "lastOpenFiles": [
-    "grab/2024/gpt annotation review.md",
+    "Pasted image 20240713082149.png",
+    "Pasted image 20240713082021.png",
+    "Pasted image 20240713081737.png",
+    "Pasted image 20240713081518.png",
+    "Pasted image 20240713081245.png",
+    "Pasted image 20240713080816.png",
     "grab/2024/annotation.md",
+    "pte/口语/Rs.md",
+    "grab/2024/gpt annotation review.md",
     "grab/2024/ka.md",
     "pte/口语/第二节课.md",
     "Pasted image 20240711101435.png",
@@ -281,11 +288,6 @@
     "pte/阅读/1.md",
     "Screenshot 2024-06-29 at 09.47.18.png",
     "Screenshot 2024-06-24 at 18.01.35.png",
-    "Screenshot 2024-06-24 at 18.00.49.png",
-    "Screenshot 2024-06-24 at 17.59.51.png",
-    "Screenshot 2024-06-24 at 17.47.33.png",
-    "Screenshot 2024-06-24 at 17.44.05.png",
-    "Screenshot 2024-06-24 at 17.42.39.png",
     "pte/阅读/2.md",
     "pte/口语/第一节koyi 老师.md",
     "pte/写作/swt.md",
@@ -314,8 +316,6 @@
     "未命名",
     "pte",
     "未命名 3.md",
-    "grab/KA/2022KA.md",
-    "grab/oncall.md",
     "grab/test_uplad.canvas"
   ]
 }
