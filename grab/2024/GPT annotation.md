@@ -18,4 +18,4 @@
 		a:  可删除review的框,同时保持id跟框了联动
 			i: 通过model 展示poi信息
 			 详情参考Jarvis  [jarvis.geo.azure.stg-myteksi.com/codeless-portal/login/concedo?redirect=%2Fmicro-task%2FEHEpPYL7CII\_Ob1jM91HmWQ%3D%3D#latitude=1.5483214&longit[…]59&zoom=15.793842916991498](https://jarvis.geo.azure.stg-myteksi.com/codeless-portal/micro-task/EHEpPYL7CII_Ob1jM91HmWQ==#latitude=1.5483214&longit[…]59&zoom=15.793842916991498)
-         b: 不同颜色区别框选状态
+         b: 不同颜色区别框选状态\\\
