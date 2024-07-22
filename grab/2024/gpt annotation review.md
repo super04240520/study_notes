@@ -34,3 +34,7 @@ Task list page :
    
    
    选择后duplicate 需要更新一下form
+   
+   
+   note/
+	   benchmarking 都在新tool 上做，LA在stg，SEA在prod. [@chao.an](https://grab.slack.com/team/U02T9457D16) 帮忙确认一下 `9qqj7q`, `9qqjsh` 这两个 gh是干净的，大家测试的时候也绕过它俩哈。[@dongming.wang](https://grab.slack.com/team/WS8MXCUMD) [@changlin.shi](https://grab.slack.com/team/U02GD57JRSL) [@wenyue.zhao](https://grab.slack.com/team/U0271RHPQKD) [@wulong.shan](https://grab.slack.com/team/U01E6LPM5K7) cc [@linlin.fu](https://grab.slack.com/team/U02A477CADD)
