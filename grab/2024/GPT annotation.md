@@ -18,4 +18,18 @@
 		a:  可删除review的框,同时保持id跟框了联动
 			i: 通过model 展示poi信息
 			 详情参考Jarvis  [jarvis.geo.azure.stg-myteksi.com/codeless-portal/login/concedo?redirect=%2Fmicro-task%2FEHEpPYL7CII\_Ob1jM91HmWQ%3D%3D#latitude=1.5483214&longit[…]59&zoom=15.793842916991498](https://jarvis.geo.azure.stg-myteksi.com/codeless-portal/micro-task/EHEpPYL7CII_Ob1jM91HmWQ==#latitude=1.5483214&longit[…]59&zoom=15.793842916991498)
-         b: 不同颜色区别框选状态\\\
+         b: 不同颜色区别框选状态\\
+         
+         
+         
+
+annotation
+	map-tree -->annotation
+		 task 自带annotation 不可编辑
+annotation review 
+	.map-TREE
+	 多图片兼容. 
+qc
+   图片画框与创建和更新POI交互
+	
+map-tree
