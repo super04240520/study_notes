@@ -88,9 +88,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "903781ec2a66f06b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -267,7 +277,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "acd331bf8581e3c9",
+  "active": "903781ec2a66f06b",
   "lastOpenFiles": [
     "grab/2024/GPT annotation.md",
     "grab/2024/gpt annotation review.md",
