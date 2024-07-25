@@ -31,5 +31,6 @@ annotation review
 	 多图片兼容. 
 qc
    图片画框与创建和更新POI交互
+accept的qc状态 为。 5 layer设置为accept
 	
 map-tree
