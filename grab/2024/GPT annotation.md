@@ -34,3 +34,15 @@ qc
 accept的qc状态 为。 5 layer设置为accept
 	
 map-tree
+
+7.,26
+	[Sign in to Grab | Slack](https://grab.slack.com/archives/C048HBNDLUT/p1721959454913439)
+ ui
+	  1:qc poi 在geohash 层展示
+		filter 过多目前
+	 2: 编辑annotation poi
+	 3: 需要展示poi 一句话描述详情
+	  
+ fe: 前端直接使用gpt识别	
+	
+
