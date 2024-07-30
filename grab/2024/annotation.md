@@ -7,7 +7,7 @@
 annotation
 
 aht没有taskis aht没有停下来.   list以后自动开始
-	去掉add a new poi的button
+	~~去掉add a new poi的button~~
 	
 	
 
