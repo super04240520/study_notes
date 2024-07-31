@@ -15,5 +15,6 @@ review
 	create poi 可以传值, source 
 	 点击无法查看poi 详情	
 
+当review后的数据,没有更新geohash 
 
 
